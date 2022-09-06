@@ -1,3 +1,18 @@
-.searchResponse{
-  
+.searchResponse {
+  margin-top: 50px;
+}
+
+.searchLoading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  flex-direction: column;
+}
+.errorContainer {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: gray;
 }
