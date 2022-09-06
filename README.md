@@ -1,6 +1,6 @@
 # Greenwiz Consultant Assignment
 
-Click here for [Demo](https://greenwiz-assignment.herokuapp.com/).
+Click here for [Demo](https://greenwiz-assignment-deejyoti.herokuapp.com/).
 
 Create a cocktail menu page which displays all the cocktails along with their categories. Clicking on any cocktail should display the cocktail information in detail. The page should also contain filters and search functionality.
 Here is the link to the menu design reference: https://lecafe.quickzu.com/
