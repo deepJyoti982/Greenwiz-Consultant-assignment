@@ -1,4 +1,4 @@
-###  Greenwiz Consultant Assignment
+##  Greenwiz Consultant Assignment
 Click Here for [DEMO](http://greenwiz.sahilks.in/)
 
 Create a cocktail menu page which displays all the cocktails along with their categories. Clicking on any cocktail should display the cocktail information in detail. The page should also contain filters and search functionality.
