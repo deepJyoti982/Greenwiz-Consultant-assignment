@@ -30,7 +30,7 @@ function SearchResult({ search, setSearch }) {
             return <EachItem key={i} data={e} />
         })}
 
-        {searchList.length == 0 ? <div className="errorContainer"> No search result found 😔!</div> : ''}
+        {searchList.length == 0 ? <div className="errorContainer"> No result found!</div> : ''}
 
     </div>
 }

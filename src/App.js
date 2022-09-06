@@ -136,7 +136,7 @@ function App() {
       </div>
 
       <div className="waterMark">
-        developed by <a className="pl-1 pr-1" target="_blank" href="https://github.com/SahilKumarGit" > Sahil Kumar Sahoo</a> | Greenwiz Consultant assignment
+        developed by <a className="pl-1 pr-1" target="_blank" href="https://github.com/deepJyoti982" > Deepjyoti Sarkar</a> | Greenwiz Consultant assignment
       </div>
     </div>
   );
